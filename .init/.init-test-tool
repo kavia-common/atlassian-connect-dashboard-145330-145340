@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/atlassian-connect-dashboard-145330-145340/backend"
+}
